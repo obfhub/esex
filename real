@@ -15,7 +15,7 @@
             background-color: #f0f0f0;
         }
         div {
-            font-size: 4rem; /* Adjust the size as needed */
+            font-size: 4rem; 
             color: #333;
         }
     </style>
